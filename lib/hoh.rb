@@ -57,7 +57,7 @@ def naming_system
                 label: {},
                 sub_category: {
                   label: "Species",
-                  label: {}
+                  sub_category: {}
                 }
               }
             }
