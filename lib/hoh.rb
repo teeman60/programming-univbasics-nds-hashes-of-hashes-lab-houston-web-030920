@@ -52,5 +52,7 @@ def naming_system
     
   }
   
-  return portion_1
+  
+  
+  # return portion_1
 end
