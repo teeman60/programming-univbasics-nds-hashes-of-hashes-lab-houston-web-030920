@@ -51,4 +51,6 @@ def naming_system
     } 
     
   }
+  
+  return PORTION_1
 end
