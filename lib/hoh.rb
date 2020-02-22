@@ -60,9 +60,9 @@ def naming_system
           }
         }
       }
-    } 
+     
     
-  }
+  
   
 # portion_1[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = "Genus"
   
